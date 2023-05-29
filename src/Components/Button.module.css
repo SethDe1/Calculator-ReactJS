@@ -1,0 +1,17 @@
+.calcBtns{
+    height: 90px;
+    width: 90px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    user-select: none;
+    box-shadow: 10px 10px 30px #d5a8df1e,
+    -10px -10px 30px #b6b5b500;
+}
+.res{
+    width: 180px;
+    background-color: rgb(155, 42, 170);
+}
