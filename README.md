@@ -1,1 +1,1 @@
-Creating basic calculator using react
+Creating basic calculator using react.jss
